@@ -1,0 +1,11 @@
+ipython==8.12.3
+keras==3.4.1
+matplotlib==3.8.4
+numpy==2.4.3
+pandas==3.0.1
+scikit_learn==1.4.2
+scipy==1.17.1
+seaborn==0.13.2
+tensorflow==2.16.1
+tensorflow_intel==2.16.1
+torch==2.1.0+cu121

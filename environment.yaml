@@ -1,0 +1,13 @@
+name: hydraulic-stability
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pip
+  - pip:
+      - tensorflow
