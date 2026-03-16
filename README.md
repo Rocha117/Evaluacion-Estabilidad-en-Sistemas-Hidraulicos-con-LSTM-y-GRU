@@ -1,7 +1,5 @@
 # Clasificación de la Estabilidad de un Sistema Hidráulico Complejo mediante LSTM y GRU
 
-Proyecto de Inteligencia Artificial — Ingeniería Mecatrónica
-
 ---
 
 ## Descripción
@@ -147,14 +145,12 @@ conda activate hydraulic-stability
 pip install -r requirements.txt
 ```
 
-> **Nota:** El proyecto utiliza **Keras 3 con backend PyTorch**. Asegúrate de tener instalado CUDA si deseas aprovechar la GPU.
-
 ### Requisitos del sistema
 
 | Componente | Versión |
 |---|---|
 | Python | 3.11 |
-| PyTorch | 2.1.0+cu121 |
+| PyTorch | 
 | TensorFlow / Keras | 2.16.1 / 3.4.1 |
 | NumPy | 2.4.3 |
 | Pandas | 3.0.1 |
